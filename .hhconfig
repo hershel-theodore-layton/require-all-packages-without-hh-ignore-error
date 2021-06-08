@@ -1,0 +1,14 @@
+###################################################################
+# This file must not add HH_IGNORE_ERROR codes to the allow list. #
+###################################################################
+
+# Options which will have their default flipped in the future
+# and do not make previously invalid code valid, may be added here.
+# 
+# Example of a good setting: enable_strict_string_concat_interp
+# All code that is valid with this setting turned on is valid when it is turned off.
+#
+# Example of a bad setting: union_intersection_type_hints
+# There is code that is invalid with this setting turned off, which is valid when turned on.
+
+enable_strict_string_concat_interp = true

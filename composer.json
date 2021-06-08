@@ -1,0 +1,8 @@
+{
+    "require": {
+        "hershel-theodore-layton/sgml-stream-interfaces": "^0.3.0",
+        "hershel-theodore-layton/sgml-stream": "^0.3.1",
+        "hershel-theodore-layton/html-stream-namespaced": "^0.3.1",
+        "hershel-theodore-layton/html-stream-non-namespaced": "^0.3.1"
+    }
+}
