@@ -4,7 +4,9 @@
         "hershel-theodore-layton/sgml-stream": "*",
         "hershel-theodore-layton/html-stream-namespaced": "*",
         "hershel-theodore-layton/html-stream-non-namespaced": "*",
-        "hershel-theodore-layton/static-type-assertion-code-generator": "*"
+        "hershel-theodore-layton/static-type-assertion-code-generator": "*",
+        "hershel-theodore-layton/lecof-router-interfaces": "*",
+        "hershel-theodore-layton/lecof-router": "*"
     },
     "scripts": {
         "post-install-cmd": [
