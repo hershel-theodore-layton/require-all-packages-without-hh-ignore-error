@@ -7,7 +7,9 @@
         "hershel-theodore-layton/type-visitor": "*",
         "hershel-theodore-layton/static-type-assertion-code-generator": "*",
         "hershel-theodore-layton/lecof-router-interfaces": "*",
-        "hershel-theodore-layton/lecof-router": "*"
+        "hershel-theodore-layton/lecof-router": "*",
+        "hershel-theodore-layton/portable-hack-ast": "dev-master",
+        "hershel-theodore-layton/portable-hack-ast-extras": "dev-master"
     },
     "scripts": {
         "post-install-cmd": [
