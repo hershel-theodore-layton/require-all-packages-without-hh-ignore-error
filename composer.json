@@ -9,7 +9,9 @@
         "hershel-theodore-layton/lecof-router-interfaces": "*",
         "hershel-theodore-layton/lecof-router": "*",
         "hershel-theodore-layton/portable-hack-ast": "dev-master",
-        "hershel-theodore-layton/portable-hack-ast-extras": "dev-master"
+        "hershel-theodore-layton/portable-hack-ast-extras": "dev-master",
+        "hershel-theodore-layton/portable-hack-ast-linters": "dev-master",
+        "hershel-theodore-layton/pragma": "dev-master"
     },
     "scripts": {
         "post-install-cmd": [
