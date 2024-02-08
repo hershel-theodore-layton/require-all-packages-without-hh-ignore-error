@@ -11,4 +11,5 @@
 # Example of a bad setting: union_intersection_type_hints
 # There is code that is invalid with this setting turned off, which is valid when turned on.
 
+check_xhp_attribute = true
 enable_strict_string_concat_interp = true
