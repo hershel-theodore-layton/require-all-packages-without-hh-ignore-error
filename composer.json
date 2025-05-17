@@ -1,6 +1,6 @@
 {
   "require": {
-    "hershel-theodore-layton/expect": "*",
+    "hershel-theodore-layton/expect": "dev-master",
     "hershel-theodore-layton/sgml-stream-interfaces": "*",
     "hershel-theodore-layton/sgml-stream": "*",
     "hershel-theodore-layton/html-stream-namespaced": "*",
